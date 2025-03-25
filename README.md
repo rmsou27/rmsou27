@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Souhardh Munnolli</h1>
-<h2 align="center">A Passionate Front-end Developer from India</h2>
+<h3 align="center">A Passionate Front-end Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmsou27&label=Profile%20views&color=0e75b6&style=flat" alt="rmsou27" /> </p>
 
