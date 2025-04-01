@@ -6,7 +6,7 @@
 - 📫Feel free to reach me **souhardhmunnolli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="centre">
 <a href="https://twitter.com/souhardh9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="souhardh9" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/souhardhrm-aa0b98220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souhardhrm-aa0b98220" height="50" width="50" /></a>
 <a href="https://instagram.com/souhardh_rm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souhardh_rm" height="50" width="50" /></a>
